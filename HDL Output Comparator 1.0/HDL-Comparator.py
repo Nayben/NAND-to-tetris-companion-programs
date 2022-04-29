@@ -25,8 +25,6 @@ def outlbb():
     global file1D
     global file2D
     outin = strlname.get()
-    print(cmpinde)
-    print(outin)
     cmpin.delete(0,END)
     showdesc.pack(side="left")
 
