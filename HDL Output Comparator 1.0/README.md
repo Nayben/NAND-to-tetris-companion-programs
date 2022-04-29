@@ -8,6 +8,8 @@ CMP file. If the files match, it will tell you, and if they do not match, it wil
 You can also view the contents of the files by pressing the view file description button.
 CMP file is on the top, OUT file is on the bottom.
 
+It also uses tkinter because the rest of NAND to Tetris is GUI based anyway.
+
 
 Usage:
 1. Place the Python program in the same directory as the CMP and OUT files that you want to test.
