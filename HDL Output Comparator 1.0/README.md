@@ -1,6 +1,6 @@
 HDL Output Comparator 1.0
 Made by Nayben
-
+Written in Python 3.7
 
 This is a simple program created in python that allows you to compare the output of your .OUT file with the provided
 CMP file. If the files match, it will tell you, and if they do not match, it will tell you as well, but in a wonderful red color.
